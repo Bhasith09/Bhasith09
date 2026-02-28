@@ -1,5 +1,7 @@
 <h1>AI/ML Engineer | Python Developer | Data Enthusiast</h1>
 <p>I am an AIML Engineer focused on real-world problem solving</p>
+## About Me
+AI/ML Engineer passionate about developing intelligent systems and data-driven solutions. Skilled in Python and Machine Learning, with interest in solving real-world problems through technology. Continuously learning and improving to build impactful projects.
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="42" height="42" /></a>
