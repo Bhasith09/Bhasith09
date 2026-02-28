@@ -26,8 +26,4 @@
 <img src="https://streak-stats.demolab.com?user=Bhasith09&theme=radical" />
 </p>
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhasith09&layout=compact&theme=radical" />
-</p>
 
-<p>
