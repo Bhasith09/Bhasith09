@@ -31,7 +31,3 @@
 </p>
 
 <p>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=Bhasith09&theme=radical" />
-</a>
-</p>
