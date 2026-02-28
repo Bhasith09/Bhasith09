@@ -19,19 +19,19 @@
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/bhasith" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bhasith09&show_icons=true&locale=en" />
+<img src="https://github-readme-stats.vercel.app/api?username=Bhasith09&show_icons=true&theme=radical" />
 </p>
 
 <p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bhasith09" />
+<img src="https://streak-stats.demolab.com?user=Bhasith09&theme=radical" />
 </p>
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bhasith09&show_icons=true&locale=en&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhasith09&layout=compact&theme=radical" />
 </p>
 
 <p>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=Bhasith09" />
+<img src="https://github-profile-trophy.vercel.app/?username=Bhasith09&theme=radical" />
 </a>
 </p>
